@@ -54,7 +54,3 @@ This TypeScript utility automates test phone number sign-in with Google Identity
 3. **Use the token:**
 
 The script will update the profile files under /profiles with the idToken.  You can also pass the --clipboard argument to automatically copy the id token to your clipboard. 
-
-**License:**
-
-This project is licensed under the MIT License (see `LICENSE` file).
