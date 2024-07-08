@@ -11,7 +11,7 @@ This TypeScript utility automates test phone number sign-in with Google Identity
 
 **Installation:**
 
-1. Clone this repository: `git clone https://github.com/your-username/google-phone-sign-in-ts.git`
+1. Clone this repository: `git clone https://github.com/digidubae/google-test-phone-login.git`
 2. Install Deno (if not already installed): https://docs.deno.com/runtime/manual/getting_started/installation
 
 **Usage:**
